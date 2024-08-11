@@ -12,7 +12,15 @@ Follow these steps to get your project up and running:
    source .venv/Scripts/activate
    ```
 
-2. **Start the discord bot**
+2. **Install the necessary libraries**
+
+   To install the necessary libraries, use the following command:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Start the discord bot**
 
    To start the discord bot, use the following command:
 
