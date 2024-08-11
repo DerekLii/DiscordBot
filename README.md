@@ -12,5 +12,10 @@ Follow these steps to get your project up and running:
    source .venv/Scripts/activate
    ```
 
-2. **Start the bot**
+2. **Start the discord bot**
+
+   To start the discord bot, use the following command:
+
+   ```bash
    python main.py
+   ```
